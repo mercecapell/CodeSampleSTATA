@@ -1,7 +1,6 @@
-README - Mercè Capell Sample Test
+README - Mercè Capell Code Sample Test in STATA
 ------------------------------------------------------------------------------
 Date: 25/03/2024
-Code Sample in STATA. 
 
 Code Instructions:
 1. The are two ado files necessary for running the analysis, which are used to create the Big Five Measure (main instrument collected), and remove duplicate variables sistematically. They can be accessed here:
