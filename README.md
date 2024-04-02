@@ -1,6 +1,6 @@
 README - Mercè Capell Sample Test
-Date: 25/03/2024
 ------------------------------------------------------------------------------
+Date: 25/03/2024
 Code Sample in STATA. 
 
 Code Instructions:
